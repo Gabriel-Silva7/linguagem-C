@@ -12,7 +12,7 @@ int main(){
             printf("#");
             coluna++;
         }
-        // voltar a contagem de coluna ao valor 1 //
+        
 
         coluna = 1;   
         printf("\n");
